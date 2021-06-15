@@ -13,7 +13,9 @@ This is the high-level workflow:
 The design behind `raindrop` is described in [*Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation*](https://arxiv.org/abs/2012.06658) which will appear in the [DSN 2021](http://dsn2021.ntu.edu.tw/) conference.
 
 ## Access
-Instructions for accessing the source code will be made available when the conference starts.
+To get access to the code of raindrop send an email to [borrello@diag.uniroma1.it](mailto:borrello@diag.uniroma1.it?subject=[raindrop]%20code%20access) with the subject `[raindrop] code access`. We grant access to the tool for research purposes, so please specify your name and affiliation in the body of the email. We will keep them confidential.
+
+We will start replying to emails after our talk will be presented at [DSN 2021](http://dsn2021.ntu.edu.tw/) on the 24th of June. So please be patient :)
 
 ## Cite
 ```
