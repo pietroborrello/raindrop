@@ -1,6 +1,6 @@
 # raindrop
 
-This is the future home of the `raindrop` obfuscator. It transforms program functions into obfuscated ROP chains that coexist seamlessly with the surrounding software stack and can withstand popular static and dynamic deobfuscation approaches.
+This is the home of the `raindrop` obfuscator. It transforms program functions into obfuscated ROP chains that coexist seamlessly with the surrounding software stack and can withstand popular static and dynamic deobfuscation approaches.
 
 `raindrop` takes as input an ELF binary and obfuscates one or more user-defined functions, introducing different ROP-based obfuscations.
 
